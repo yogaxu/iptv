@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-id="TVBS-Asia",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/GGdnGqH.png" tvg-id="TVB PLUS",TVB PLUS
+http://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="凤凰中文",凤凰中文
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="HOY TV",HOY TV
+http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-id="澳视澳门",澳视澳门
+http://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="澳视卫星",澳视卫星
+http://cdn.163189.xyz/live/as/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/fEUmRST.png" tvg-id="凤凰资讯",凤凰资讯
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/fEUmRST.png" tvg-id="TVB J1",TVB J1
+http://cdn3.163189.xyz/live/j1/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" tvg-id="翡翠台",翡翠台
+https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/NaOUWKf.png" tvg-id="翡翠台 4k",翡翠台 4k
+https://cdn.163189.xyz/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="港台频道" tvg-logo="https://i.imgur.com/AfkK0gv.png" tvg-id="明珠台",明珠台
+https://cdn5.163189.xyz/live/mzt/stream.m3u8
