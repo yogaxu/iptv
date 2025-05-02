@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" tvg-id="翡翠台",翡翠台
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+https://cdn3.163189.xyz/live/fct/stream.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-id="TVBS-Asia",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://i.imgur.com/GGdnGqH.png" tvg-id="TVB PLUS",TVB PLUS
